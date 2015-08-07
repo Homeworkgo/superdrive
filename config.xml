@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <db>
+        <host>127.0.0.1</host>
+        <dbname>shopdrive</dbname>
+        <username>root</username>
+        <password></password>
+    </db>
+</settings>
